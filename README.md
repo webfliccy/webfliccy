@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 <p><em>Previous writer for @ Smashing Magazine, A List Apart</em></p>
 
+<p><em>Website consultant</em> @felicityevans.au, I specialise in helping small companies & non-profits with data-driven projects</p>
+
 [![Felicity Evans](https://img.shields.io/badge/FEvans-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felicityevans/)
 
 ---
