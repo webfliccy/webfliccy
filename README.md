@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><em>Front-end developer & mentor <b><a href="https://scrimba.com/">@Scrimba</a></b></em></p>
+<p><em>Sometime software engineering manager & full time dabbler</p>
 
-<p><em>Content Creator @ <a href="https://www.youtube.com/webfliccy">YouTube</a> , <a href="https://scrimba.com/playlist/pry46uQ">Scrimba</a></em></p>
+<p><em>Content Creator @ [watch this space]</em></p>
 
 <p><em>Previous writer for @ Smashing Magazine, A List Apart</em></p>
 
-<p><em>Website consultant</em> @felicityevans.au, I specialise in helping small companies & non-profits with data-driven projects</p>
+<p><em>Website consultant</em> when the need arises</p>
 
 [![Felicity Evans](https://img.shields.io/badge/FEvans-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felicityevans/)
 
